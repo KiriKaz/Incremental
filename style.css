@@ -1,0 +1,9 @@
+.mB {
+	border: 0px solid white;
+	background: white;
+}
+.bImg {
+	border-radius:100%;
+	border: 1px solid #E5E5E5;
+	cursor: pointer;
+}
